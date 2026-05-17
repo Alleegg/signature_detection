@@ -1,0 +1,5 @@
+Pillow
+scipy
+numpy
+ultralytics
+torch
