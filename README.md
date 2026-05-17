@@ -1,2 +1,5 @@
-# signature_detection
+# Распознование подписей 
 Тестовый вариант, для распознавания подписей в документах
+
+-> 'pip install -r requirements.txt'
+-> 'python main.py' - запуск
